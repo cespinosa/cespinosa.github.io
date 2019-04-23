@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carlos Espinosa/ Carlos' Site"
+title                    : "Carlos Espinosa's Site"
 title_separator          : "-"
 name                     : &name "Carlos Espinosa"
 description              : &description "PhD student at UNAM"
