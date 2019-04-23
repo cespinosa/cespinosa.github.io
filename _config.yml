@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Carlos Espinosa/ Carlos' Site"
 title_separator          : "-"
 name                     : &name "Carlos Espinosa"
-description              : &description "PhD student"
+description              : &description "PhD student at UNAM"
 url                      : https://cespinosa.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "cespinosa.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,7 +83,7 @@ author:
   name             : "Carlos Espinosa"
   avatar           : "perf_400x400.JPG"
   bio              : "PhD student"
-  location         : "Mexico City"
+  location         : "Mexico City, Mexico"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
