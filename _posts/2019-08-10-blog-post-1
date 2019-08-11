@@ -1,0 +1,17 @@
+---
+title: 'Install GNU Emacs 26 in Linux Mint 19.1'
+date: 2019-08-10
+permalink: /posts/2019/08/install_emacs26/
+tags:
+  - emacs
+  - hobbies
+---
+
+Installing GNU Emacs 26 
+======
+I switched to GNU Emacs instead of Atom. I just found that is actually pretty complicated the configuration of Emacs. 
+I will post my own configuration emacs file later. Today, I figure out that Emacs 26 was released recently. 
+However, it's not available in the Linux mint repositories yet. But, I just find out how to install Emacs 26 and, hence, 
+this is going to be the topic of this post. 
+------
+
